@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- teclado -->
+    <path android:fillColor="#F4A582"
+        android:pathData="M30,58h48a4,4 0,0 1,4 4v14a4,4 0,0 1,-4 4h-48a4,4 0,0 1,-4 -4v-14a4,4 0,0 1,4 -4z" />
+    <path android:fillColor="#1F2A5C"
+        android:pathData="M32,62h5v4h-5zM40,62h5v4h-5zM48,62h5v4h-5zM56,62h5v4h-5zM64,62h5v4h-5zM72,62h4v4h-4zM34,70h4v4h-4zM42,70h24v4h-24zM70,70h5v4h-5z" />
+    <!-- varita y destello -->
+    <path android:fillColor="#F4A582"
+        android:pathData="M45.5,52.5l15,-15l2.8,2.8l-15,15z" />
+    <path android:fillColor="#F4A582"
+        android:pathData="M66,26l2.2,6.3l6.3,2.2l-6.3,2.2l-2.2,6.3l-2.2,-6.3l-6.3,-2.2l6.3,-2.2z" />
+    <path android:fillColor="#F4A582"
+        android:pathData="M52,30l1,2.6l2.6,1l-2.6,1l-1,2.6l-1,-2.6l-2.6,-1l2.6,-1z" />
+</vector>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Tema" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorPrimary">@color/noche</item>
+        <item name="android:colorAccent">@color/durazno</item>
+        <item name="android:windowBackground">@color/noche</item>
+        <item name="android:colorControlActivated">@color/durazno</item>
+        <item name="android:statusBarColor">@color/noche</item>
+        <item name="android:navigationBarColor">@color/noche</item>
+    </style>
+
+    <!-- Ventanita del teclado: fondo transparente, se cierra al tocar fuera -->
+    <style name="Tema.Teclado" parent="android:Theme.Material.Dialog.NoActionBar">
+        <item name="android:colorAccent">@color/durazno</item>
+        <item name="android:colorControlActivated">@color/durazno</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowMinWidthMajor">100%</item>
+        <item name="android:windowMinWidthMinor">100%</item>
+    </style>
+</resources>
