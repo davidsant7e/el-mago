@@ -1,17 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Ícono mago (Arcanos, duotono). Generado por iconos.py: no editar a mano. -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="108dp" android:height="108dp"
-    android:viewportWidth="108" android:viewportHeight="108">
-    <!-- teclado -->
-    <path android:fillColor="#F4A582"
-        android:pathData="M30,58h48a4,4 0,0 1,4 4v14a4,4 0,0 1,-4 4h-48a4,4 0,0 1,-4 -4v-14a4,4 0,0 1,4 -4z" />
-    <path android:fillColor="#1F2A5C"
-        android:pathData="M32,62h5v4h-5zM40,62h5v4h-5zM48,62h5v4h-5zM56,62h5v4h-5zM64,62h5v4h-5zM72,62h4v4h-4zM34,70h4v4h-4zM42,70h24v4h-24zM70,70h5v4h-5z" />
-    <!-- varita y destello -->
-    <path android:fillColor="#F4A582"
-        android:pathData="M45.5,52.5l15,-15l2.8,2.8l-15,15z" />
-    <path android:fillColor="#F4A582"
-        android:pathData="M66,26l2.2,6.3l6.3,2.2l-6.3,2.2l-2.2,6.3l-2.2,-6.3l-6.3,-2.2l6.3,-2.2z" />
-    <path android:fillColor="#F4A582"
-        android:pathData="M52,30l1,2.6l2.6,1l-2.6,1l-1,2.6l-1,-2.6l-2.6,-1l2.6,-1z" />
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group android:translateX="23" android:translateY="22" android:scaleX="0.62" android:scaleY="0.62">
+        <path android:pathData="M21,56 H79 A5,5 0 0 1 84,61 V77 A5,5 0 0 1 79,82 H21 A5,5 0 0 1 16,77 V61 A5,5 0 0 1 21,56 Z"
+            android:fillColor="#f4a582" />
+        <path android:pathData="M25.0,62 H29.8 A1,1 0 0 1 30.8,63 V66 A1,1 0 0 1 29.8,67 H25.0 A1,1 0 0 1 24.0,66 V63 A1,1 0 0 1 25.0,62 Z"
+            android:fillColor="#1f2a5c" />
+        <path android:pathData="M34.4,62 H39.199999999999996 A1,1 0 0 1 40.199999999999996,63 V66 A1,1 0 0 1 39.199999999999996,67 H34.4 A1,1 0 0 1 33.4,66 V63 A1,1 0 0 1 34.4,62 Z"
+            android:fillColor="#1f2a5c" />
+        <path android:pathData="M43.8,62 H48.599999999999994 A1,1 0 0 1 49.599999999999994,63 V66 A1,1 0 0 1 48.599999999999994,67 H43.8 A1,1 0 0 1 42.8,66 V63 A1,1 0 0 1 43.8,62 Z"
+            android:fillColor="#1f2a5c" />
+        <path android:pathData="M53.2,62 H58.0 A1,1 0 0 1 59.0,63 V66 A1,1 0 0 1 58.0,67 H53.2 A1,1 0 0 1 52.2,66 V63 A1,1 0 0 1 53.2,62 Z"
+            android:fillColor="#1f2a5c" />
+        <path android:pathData="M62.6,62 H67.4 A1,1 0 0 1 68.4,63 V66 A1,1 0 0 1 67.4,67 H62.6 A1,1 0 0 1 61.6,66 V63 A1,1 0 0 1 62.6,62 Z"
+            android:fillColor="#1f2a5c" />
+        <path android:pathData="M72.0,62 H76.8 A1,1 0 0 1 77.8,63 V66 A1,1 0 0 1 76.8,67 H72.0 A1,1 0 0 1 71.0,66 V63 A1,1 0 0 1 72.0,62 Z"
+            android:fillColor="#1f2a5c" />
+        <path android:pathData="M32,71 H68 A1,1 0 0 1 69,72 V75 A1,1 0 0 1 68,76 H32 A1,1 0 0 1 31,75 V72 A1,1 0 0 1 32,71 Z"
+            android:fillColor="#1f2a5c" />
+        <path android:pathData="M36 50 L58 26"
+            android:fillColor="#00000000"
+            android:strokeColor="#f4a582"
+            android:strokeWidth="6"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+        <path android:pathData="M66,7 L69.9,16.1 L79,20 L69.9,23.9 L66,33 L62.1,23.9 L53,20 L62.1,16.1 Z"
+            android:fillColor="#f4a582" />
+        <path android:pathData="M26,19 L27.5,22.5 L31,24 L27.5,25.5 L26,29 L24.5,25.5 L21,24 L24.5,22.5 Z"
+            android:fillColor="#f4a582" />
+    </group>
 </vector>
